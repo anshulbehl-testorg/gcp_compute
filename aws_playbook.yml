@@ -1,5 +1,5 @@
 ---
-- name: Example playbook
+- name: AWS Infrastructure Management
   hosts: localhost
   roles:
     - role: gcp.compute_engine_instance.run
